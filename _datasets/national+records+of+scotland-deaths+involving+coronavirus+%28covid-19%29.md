@@ -1,8 +1,13 @@
 ---
 category:
 - Health and Social Care
+<<<<<<< HEAD
 date_created: '2020-04-08'
 date_updated: '2023-04-13'
+=======
+date_created: ''
+date_updated: '2023-04-06'
+>>>>>>> 7207b03e7b99141101baa9708a6d09d89961364a
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>The weekly, and year to date, provisional number of deaths associated with
