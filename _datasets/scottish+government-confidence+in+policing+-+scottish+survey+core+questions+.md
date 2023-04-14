@@ -1,7 +1,5 @@
 ---
-category:
-- Law and Licensing
-- Public Safety
+category: []
 date_created: '2016-11-30'
 date_updated: '2020-10-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,5 @@
 ---
-category:
-- Arts / Culture / History
+category: []
 date_created: ''
 date_updated: '2020-11-23'
 license: No licence

@@ -1,8 +1,5 @@
 ---
-category:
-- Budget / Finance
-- Education
-- Health and Social Care
+category: []
 date_created: '2019-05-31'
 date_updated: '2023-01-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

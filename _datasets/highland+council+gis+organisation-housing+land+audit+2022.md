@@ -1,9 +1,5 @@
 ---
-category:
-- Council and Government
-- Food and Environment
-- Housing and Estates
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2022-12-12'
 license: No licence

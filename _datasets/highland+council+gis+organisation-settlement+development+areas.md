@@ -1,7 +1,5 @@
 ---
-category:
-- Council and Government
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2022-11-04'
 license: No licence

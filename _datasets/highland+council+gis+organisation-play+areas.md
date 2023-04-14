@@ -1,8 +1,5 @@
 ---
-category:
-- Council and Government
-- Elections / Politics
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2022-08-04'
 license: No licence

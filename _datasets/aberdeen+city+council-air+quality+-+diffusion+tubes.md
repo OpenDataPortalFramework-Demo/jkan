@@ -1,7 +1,5 @@
 ---
-category:
-- Business and Economy
-- Food and Environment
+category: []
 date_created: '2020-08-03'
 date_updated: '2020-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

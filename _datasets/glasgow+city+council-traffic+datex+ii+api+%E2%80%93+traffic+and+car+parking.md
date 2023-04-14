@@ -1,11 +1,5 @@
 ---
-category:
-- Arts / Culture / History
-- Council and Government
-- Housing and Estates
-- Parks / Recreation
-- Sport and Leisure
-- Transportation
+category: []
 date_created: ''
 date_updated: '2021-04-30'
 license: No licence

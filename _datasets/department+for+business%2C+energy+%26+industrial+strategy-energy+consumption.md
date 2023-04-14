@@ -1,7 +1,5 @@
 ---
-category:
-- Housing and Estates
-- Planning and Development
+category: []
 date_created: '2014-07-29'
 date_updated: '2023-02-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

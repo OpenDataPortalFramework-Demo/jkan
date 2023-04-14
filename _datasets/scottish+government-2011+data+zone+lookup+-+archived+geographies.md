@@ -1,6 +1,5 @@
 ---
-category:
-- Council and Government
+category: []
 date_created: '2022-11-11'
 date_updated: '2022-11-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

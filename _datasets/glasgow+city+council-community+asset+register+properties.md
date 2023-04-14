@@ -1,11 +1,5 @@
 ---
-category:
-- Council and Government
-- Food and Environment
-- Housing and Estates
-- Parks / Recreation
-- Planning and Development
-- Sport and Leisure
+category: []
 date_created: ''
 date_updated: '2023-03-29'
 license: No licence

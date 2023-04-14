@@ -1,7 +1,5 @@
 ---
-category:
-- Food and Environment
-- Law and Licensing
+category: []
 date_created: ''
 date_updated: '2021-07-01'
 license: No licence

@@ -1,9 +1,5 @@
 ---
-category:
-- Council and Government
-- Food and Environment
-- Planning and Development
-- Transportation
+category: []
 date_created: ''
 date_updated: '2018-10-02'
 license: No licence

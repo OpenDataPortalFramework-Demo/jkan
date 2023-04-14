@@ -1,6 +1,5 @@
 ---
-category:
-- Council and Government
+category: []
 date_created: ''
 date_updated: '2021-06-29'
 license: No licence

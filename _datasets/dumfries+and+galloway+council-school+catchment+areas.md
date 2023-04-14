@@ -1,8 +1,5 @@
 ---
-category:
-- Council and Government
-- Education
-- Planning and Development
+category: []
 date_created: '2017-11-16'
 date_updated: '2020-12-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

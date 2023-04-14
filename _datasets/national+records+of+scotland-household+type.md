@@ -1,6 +1,5 @@
 ---
-category:
-- Uncategorised
+category: []
 date_created: '2017-07-06'
 date_updated: '2022-06-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

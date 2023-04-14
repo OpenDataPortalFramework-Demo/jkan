@@ -1,6 +1,5 @@
 ---
-category:
-- Education
+category: []
 date_created: '2017-11-21'
 date_updated: '2017-11-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

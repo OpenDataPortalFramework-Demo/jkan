@@ -1,6 +1,5 @@
 ---
-category:
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2021-12-23'
 license: No licence

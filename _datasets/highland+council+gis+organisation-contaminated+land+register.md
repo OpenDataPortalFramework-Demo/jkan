@@ -1,6 +1,5 @@
 ---
-category:
-- Food and Environment
+category: []
 date_created: ''
 date_updated: '2020-08-11'
 license: No licence

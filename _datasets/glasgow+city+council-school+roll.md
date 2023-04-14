@@ -1,6 +1,5 @@
 ---
-category:
-- Education
+category: []
 date_created: ''
 date_updated: '2021-07-16'
 license: No licence

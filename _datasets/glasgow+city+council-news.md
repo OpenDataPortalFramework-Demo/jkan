@@ -1,6 +1,5 @@
 ---
-category:
-- Uncategorised
+category: []
 date_created: ''
 date_updated: '2022-10-07'
 license: No licence

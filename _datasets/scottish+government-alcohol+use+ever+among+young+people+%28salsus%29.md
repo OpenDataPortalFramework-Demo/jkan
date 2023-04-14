@@ -1,6 +1,5 @@
 ---
-category:
-- Health and Social Care
+category: []
 date_created: '2016-12-05'
 date_updated: '2023-02-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

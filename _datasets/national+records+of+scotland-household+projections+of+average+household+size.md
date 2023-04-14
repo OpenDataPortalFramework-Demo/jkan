@@ -1,9 +1,5 @@
 ---
-category:
-- Council and Government
-- Health and Social Care
-- Parks / Recreation
-- Sport and Leisure
+category: []
 date_created: '2018-08-03'
 date_updated: '2022-08-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

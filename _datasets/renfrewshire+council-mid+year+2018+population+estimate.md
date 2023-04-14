@@ -1,9 +1,5 @@
 ---
-category:
-- Business and Economy
-- Council and Government
-- Elections / Politics
-- Planning and Development
+category: []
 date_created: '2019-07-19'
 date_updated: '2019-07-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

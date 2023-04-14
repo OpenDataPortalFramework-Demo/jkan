@@ -1,7 +1,5 @@
 ---
-category:
-- Planning and Development
-- Transportation
+category: []
 date_created: '2018-07-12'
 date_updated: '2020-02-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,7 +1,5 @@
 ---
-category:
-- Food and Environment
-- Transportation
+category: []
 date_created: ''
 date_updated: '2023-02-14'
 license: No licence

@@ -1,9 +1,5 @@
 ---
-category:
-- Council and Government
-- Elections / Politics
-- Housing and Estates
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2022-06-09'
 license: No licence

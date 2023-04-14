@@ -1,11 +1,5 @@
 ---
-category:
-- Business and Economy
-- Council and Government
-- Health and Social Care
-- Planning and Development
-- Public Safety
-- Transportation
+category: []
 date_created: ''
 date_updated: '2022-03-14'
 license: No licence

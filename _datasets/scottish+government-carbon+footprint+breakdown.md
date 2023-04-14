@@ -1,7 +1,5 @@
 ---
-category:
-- Food and Environment
-- Planning and Development
+category: []
 date_created: '2016-10-24'
 date_updated: '2023-04-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

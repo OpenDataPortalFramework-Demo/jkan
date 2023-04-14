@@ -1,8 +1,5 @@
 ---
-category:
-- Business and Economy
-- Council and Government
-- Food and Environment
+category: []
 date_created: ''
 date_updated: '2023-02-03'
 license: No licence

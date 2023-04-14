@@ -1,9 +1,5 @@
 ---
-category:
-- Council and Government
-- Housing and Estates
-- Law and Licensing
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2022-03-31'
 license: No licence

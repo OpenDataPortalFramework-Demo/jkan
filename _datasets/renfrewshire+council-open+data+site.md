@@ -1,14 +1,5 @@
 ---
-category:
-- Business and Economy
-- Council and Government
-- Education
-- Elections / Politics
-- Food and Environment
-- Health and Social Care
-- Planning and Development
-- Tourism
-- Transportation
+category: []
 date_created: '2017-05-10'
 date_updated: '2022-05-03'
 license: No licence

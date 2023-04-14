@@ -1,6 +1,5 @@
 ---
-category:
-- Health and Social Care
+category: []
 date_created: ''
 date_updated: '2023-03-29'
 license: No licence

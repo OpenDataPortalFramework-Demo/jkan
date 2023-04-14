@@ -1,8 +1,5 @@
 ---
-category:
-- Food and Environment
-- Housing and Estates
-- Planning and Development
+category: []
 date_created: '2018-03-22'
 date_updated: '2023-04-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

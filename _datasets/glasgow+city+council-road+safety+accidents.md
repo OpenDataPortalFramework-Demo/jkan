@@ -1,10 +1,5 @@
 ---
-category:
-- Food and Environment
-- Law and Licensing
-- Planning and Development
-- Public Safety
-- Transportation
+category: []
 date_created: ''
 date_updated: '2021-12-17'
 license: No licence

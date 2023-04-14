@@ -1,6 +1,5 @@
 ---
-category:
-- Transportation
+category: []
 date_created: '2017-11-20'
 date_updated: '2019-09-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

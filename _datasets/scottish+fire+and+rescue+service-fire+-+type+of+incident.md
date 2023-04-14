@@ -1,6 +1,5 @@
 ---
-category:
-- Public Safety
+category: []
 date_created: '2017-10-04'
 date_updated: '2022-12-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

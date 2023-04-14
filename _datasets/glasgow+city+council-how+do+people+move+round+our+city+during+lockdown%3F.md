@@ -1,6 +1,5 @@
 ---
-category:
-- Uncategorised
+category: []
 date_created: ''
 date_updated: '2020-09-23'
 license: No licence

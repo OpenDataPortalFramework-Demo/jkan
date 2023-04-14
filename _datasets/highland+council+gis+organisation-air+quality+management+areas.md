@@ -1,9 +1,5 @@
 ---
-category:
-- Council and Government
-- Elections / Politics
-- Food and Environment
-- Planning and Development
+category: []
 date_created: ''
 date_updated: '2019-11-21'
 license: No licence

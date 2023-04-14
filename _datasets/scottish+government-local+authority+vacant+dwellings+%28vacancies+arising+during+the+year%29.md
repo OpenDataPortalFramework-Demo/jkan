@@ -1,8 +1,5 @@
 ---
-category:
-- Elections / Politics
-- Housing and Estates
-- Planning and Development
+category: []
 date_created: '2018-07-20'
 date_updated: '2022-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

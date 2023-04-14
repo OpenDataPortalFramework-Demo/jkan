@@ -1,9 +1,5 @@
 ---
-category:
-- Budget / Finance
-- Business and Economy
-- Education
-- Sport and Leisure
+category: []
 date_created: ''
 date_updated: '2022-03-10'
 license: No licence

@@ -1,6 +1,5 @@
 ---
-category:
-- Food and Environment
+category: []
 date_created: '2020-06-19'
 date_updated: '2022-06-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

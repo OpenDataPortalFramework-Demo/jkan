@@ -1,9 +1,5 @@
 ---
-category:
-- Budget / Finance
-- Business and Economy
-- Council and Government
-- Education
+category: []
 date_created: ''
 date_updated: '2021-12-07'
 license: No licence

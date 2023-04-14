@@ -1,7 +1,5 @@
 ---
-category:
-- Food and Environment
-- Sport and Leisure
+category: []
 date_created: ''
 date_updated: '2022-06-20'
 license: No licence

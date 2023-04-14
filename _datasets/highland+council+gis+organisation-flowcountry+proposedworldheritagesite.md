@@ -1,6 +1,5 @@
 ---
-category:
-- Sport and Leisure
+category: []
 date_created: ''
 date_updated: '2023-03-21'
 license: No licence

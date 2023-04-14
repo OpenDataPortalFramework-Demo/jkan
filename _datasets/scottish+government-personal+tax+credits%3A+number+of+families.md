@@ -1,6 +1,5 @@
 ---
-category:
-- Budget / Finance
+category: []
 date_created: '2019-12-03'
 date_updated: '2023-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

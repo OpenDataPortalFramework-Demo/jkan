@@ -1,6 +1,5 @@
 ---
-category:
-- Arts / Culture / History
+category: []
 date_created: '2020-02-10'
 date_updated: '2020-08-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

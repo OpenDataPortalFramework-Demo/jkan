@@ -1,7 +1,5 @@
 ---
-category:
-- Education
-- Health and Social Care
+category: []
 date_created: '2018-11-05'
 date_updated: '2022-11-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

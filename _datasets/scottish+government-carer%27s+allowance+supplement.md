@@ -1,7 +1,5 @@
 ---
-category:
-- Business and Economy
-- Elections / Politics
+category: []
 date_created: '2019-05-14'
 date_updated: '2023-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

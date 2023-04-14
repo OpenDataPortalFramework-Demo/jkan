@@ -1,8 +1,5 @@
 ---
-category:
-- Council and Government
-- Elections / Politics
-- Sport and Leisure
+category: []
 date_created: ''
 date_updated: '2023-04-05'
 license: No licence
