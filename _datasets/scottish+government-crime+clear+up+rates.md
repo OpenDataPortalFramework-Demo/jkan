@@ -1,13 +1,6 @@
 ---
-<<<<<<< HEAD
 category: []
-date_created: '2014-07-29'
-=======
-category:
-- Law and Licensing
-- Public Safety
 date_created: ''
->>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2022-08-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

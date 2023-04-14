@@ -1,12 +1,6 @@
 ---
-<<<<<<< HEAD
 category: []
-date_created: '2016-11-14'
-=======
-category:
-- Business and Economy
 date_created: ''
->>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2022-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Accountant in Bankruptcy
