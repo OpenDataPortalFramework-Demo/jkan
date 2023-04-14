@@ -1,6 +1,12 @@
 ---
+<<<<<<< HEAD
 category: []
 date_created: '2018-05-22'
+=======
+category:
+- Business and Economy
+date_created: ''
+>>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2022-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

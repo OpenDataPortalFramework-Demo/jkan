@@ -1,6 +1,12 @@
 ---
+<<<<<<< HEAD
 category: []
 date_created: '2021-11-18'
+=======
+category:
+- Budget / Finance
+date_created: ''
+>>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2023-03-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
