@@ -14,10 +14,6 @@ logo: /img/logo.png
 # Site theme
 jkan_theme: Default
 
-# Authentication
-github:  
-  client_id: 65641e36c09864a92798
-  client_secret: REMOVE 
 
 # Dataset schema
 schema: default
