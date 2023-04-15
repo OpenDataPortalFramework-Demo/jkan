@@ -1,13 +1,6 @@
 ---
-<<<<<<< HEAD
 category: []
-date_created: '2017-03-23'
-=======
-category:
-- Elections / Politics
-- Health and Social Care
 date_created: ''
->>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2023-01-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

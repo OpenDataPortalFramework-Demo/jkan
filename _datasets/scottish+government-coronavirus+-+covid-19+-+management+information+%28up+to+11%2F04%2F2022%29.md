@@ -1,12 +1,6 @@
 ---
-<<<<<<< HEAD
 category: []
-date_created: '2020-04-23'
-=======
-category:
-- Health and Social Care
 date_created: ''
->>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2022-04-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

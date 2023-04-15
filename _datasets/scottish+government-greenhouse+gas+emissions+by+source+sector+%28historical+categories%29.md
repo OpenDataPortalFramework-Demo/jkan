@@ -1,12 +1,6 @@
 ---
-<<<<<<< HEAD
 category: []
-date_created: '2017-03-13'
-=======
-category:
-- Food and Environment
 date_created: ''
->>>>>>> 13a5c5614b662b20925ce656aedf81fde1c799b6
 date_updated: '2021-07-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
