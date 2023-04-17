@@ -1,0 +1,14 @@
+---
+category: []
+date_created: '2015-10-30'
+date_updated: '2023-02-02'
+license: No licence
+maintainer: open.data@southayrshire
+notes: <p>Areas depicting wildlife sites South Ayrshire</p>
+organization: open.data@southayrshire
+original_dataset_link: https://www.arcgis.com/home/item.html?id=177b941c716b4aada41ade02cd687d30
+records: 107
+resources: []
+schema: default
+title: Wildlife Sites
+---

@@ -1,0 +1,14 @@
+---
+category: []
+date_created: '2022-03-22'
+date_updated: '2023-02-16'
+license: No licence
+maintainer: open.data@southayrshire
+notes: ''
+organization: open.data@southayrshire
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1609d57bcd174191bffdeef19541fe1c
+records: 4
+resources: []
+schema: default
+title: Significant Protection Area
+---
