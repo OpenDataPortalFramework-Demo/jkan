@@ -14,7 +14,17 @@ logo: /img/logo.png
 # Site theme
 jkan_theme: Default
 
+# Authentication
+github:
+  client_id: YOUR_CLIENT_ID
+  client_secret: YOUR_CLIENT_SECRET
+  access_token_url: http://YOUR_SERVER_HOSTNAME:PORT/auth/token
+  authorize_url: http://YOUR_SERVER_HOSTNAME:PORT/auth
+  api_url: https://api.github.com
 
+gatekeeper:
+  host: YOUR_SERVER_HOSTNAME
+  port: PORT
 
 # Dataset schema
 schema: default
