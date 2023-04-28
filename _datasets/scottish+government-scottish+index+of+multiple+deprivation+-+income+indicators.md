@@ -1,10 +1,6 @@
 ---
 category: []
-<<<<<<< HEAD
-date_created: '2023-04-24'
-=======
-date_created: ''
->>>>>>> b9b2ffd24de53710f990d0fcd609cde1052e93a7
+date_created: '2023-04-28'
 date_updated: '2019-10-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

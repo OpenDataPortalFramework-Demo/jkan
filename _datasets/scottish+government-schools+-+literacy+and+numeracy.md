@@ -1,7 +1,7 @@
 ---
 category: []
-date_created: ''
-date_updated: '2022-06-02'
+date_created: '2018-04-24'
+date_updated: '2023-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The percentage of school leavers attaining literacy and numeracy at SCQF
