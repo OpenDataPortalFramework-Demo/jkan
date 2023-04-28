@@ -43,8 +43,8 @@ navigation:
       url: /analytics/file-types/
     - title: Dataset licensing
       url: /analytics/licensing/
-    - title: Local organizations category breakdown
-      url: /analytics/local-organizations-categories/
+    - title: Local authority category breakdown
+      url: /analytics/local-authority-categories/
     - title: Portal types
       url: /analytics/portal-types/
     - title: Platform health
