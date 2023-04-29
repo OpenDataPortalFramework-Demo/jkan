@@ -1,5 +1,6 @@
 ---
-category: []
+category:
+- Business and Economy
 date_created: '2021-07-08'
 date_updated: '2021-08-25'
 license: No licence

@@ -1,6 +1,9 @@
 ---
-category: []
-date_created: '2020-08-27'
+category:
+- Business and Economy
+- Council and Government
+- Planning and Development
+date_created: ''
 date_updated: '2022-10-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

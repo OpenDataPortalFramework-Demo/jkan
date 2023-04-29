@@ -1,5 +1,7 @@
 ---
-category: []
+category:
+- Business and Economy
+- Tourism
 date_created: '2019-07-19'
 date_updated: '2019-07-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

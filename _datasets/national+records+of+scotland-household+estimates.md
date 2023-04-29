@@ -1,6 +1,10 @@
 ---
-category: []
-date_created: '2014-07-29'
+category:
+- Budget / Finance
+- Council and Government
+- Housing and Estates
+- Planning and Development
+date_created: ''
 date_updated: '2022-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland

@@ -1,6 +1,9 @@
 ---
-category: []
-date_created: '2017-04-26'
+category:
+- Budget / Finance
+- Business and Economy
+- Council and Government
+date_created: ''
 date_updated: '2022-08-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

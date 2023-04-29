@@ -1,6 +1,7 @@
 ---
-category: []
-date_created: '2017-08-16'
+category:
+- Tourism
+date_created: ''
 date_updated: '2022-06-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: VisitScotland

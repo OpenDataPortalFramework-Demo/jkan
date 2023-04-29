@@ -1,6 +1,10 @@
 ---
-category: []
-date_created: '2017-08-31'
+category:
+- Housing and Estates
+- Parks / Recreation
+- Sport and Leisure
+- Tourism
+date_created: ''
 date_updated: '2022-08-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: VisitScotland
