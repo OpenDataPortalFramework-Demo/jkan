@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: '2019-02-21'
-date_updated: '2023-04-05'
+date_created: ''
+date_updated: '2023-05-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Number of bed days occupied by hospital inpatients who are ready for discharge,
