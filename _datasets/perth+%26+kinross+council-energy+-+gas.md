@@ -4,11 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-09-10'
-<<<<<<< HEAD
 date_updated: '2023-05-07'
-=======
-date_updated: '2023-04-30'
->>>>>>> a324f97bb0ae6b43cb4401003e9f58da92b900a2
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <p>Gas usage data from Perth &amp; Kinross Council owned buildings fitted with
